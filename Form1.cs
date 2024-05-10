@@ -7,7 +7,7 @@ namespace AlphaChannelChanger
     public partial class Form1 : Form
     {
         Bitmap mainPic, alpha, result;
-        ImageFormat DefaultImageFormat = ImageFormat.Bmp;
+        ImageFormat DefaultImageFormat = ImageFormat.Png;
 
         public Form1()
         {
